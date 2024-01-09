@@ -1,5 +1,5 @@
 
-/* How to React works behind the seen */
+/* How to React work behind the seen */
 
 const showElement = document.getElementById("root");
 const reactElement = {

@@ -1,9 +1,10 @@
-import UseStateHook from "./UseState/UseState";
+
+import Parent_data from "./Get_Data_Form_Child/Parent_Data";
+
 function Index () {
     return (
-        <div>
-            <h1>This is index file</h1>
-            <UseStateHook />
+        <div className="">
+            <Parent_data />
         </div>
     )
 }
